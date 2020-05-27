@@ -14,5 +14,5 @@
  </li>
  <li>Servo control (servo can be used for Camera/Phone for panoramic/tilt views)</li>
  <li>2 x DC Motor control (can be used for car/robot/rover movement</li>
- <li>HTML5, Bootstrap, JavaScript, Ajax/Json, and other stuff...</li>
+ <li>HTML5, Bootstrap, SVN, JavaScript, Ajax/Json, and other stuff...</li>
 </ul>

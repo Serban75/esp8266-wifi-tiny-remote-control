@@ -1,6 +1,6 @@
 # esp8266-wifi-tiny-remote-control
 
-<p><strong>ESp8266 WiFi Tiny Remote Control</strong> is an ESP8266 v3 device project used as IoT either for home surveillance, rc car/robot/rover or any other platform of your choice. Just use your imagination since the main features of this project are: </p>
+<p><strong>ESP8266 WiFi Tiny Remote Control</strong> is an ESP8266 v3 device project used as IoT either for home surveillance, rc car/robot/rover or any other platform of your choice. Just use your imagination since the main features of this project are: </p>
 <ul>
  <li>ESP8266 WiFi device host name</li>
  <li>Date and Time</li>
